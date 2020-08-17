@@ -10,6 +10,10 @@ Department of Electrical and Computer Engineering
 This is the official Github Repository for <b>CSE331L: Microprocessor Interfacing & Embedded System Lab, Section 7, Summer 2020</b>. All course-related materials and Code submission will be facilitated here.</br> </br> 
 Instructor: <strong>Asif Ahmed Neloy</strong> (email: asif.neloy@northsouth.edu)
 
+## _Office Hour:_
+* Thursday: 7.00 pm to 8.00 pm.
+* Link: https://meet.google.com/pnd-gfcz-ssg
+* **P.S. Make Sure you have studied the class lecture and slides, and the questions are well prepared before joining.**
 
 </br>
 </p>
@@ -62,11 +66,28 @@ This course provides an introduction to the fundamental concept of microprocesso
   </tr>
   <tr>
     <th>Week 1</th>
-    <th><a href="">Lab1</a></th> 
+    <th><a href="https://github.com/NeloyNSU/CSE331L_Section_7_Summer_2020_NSU/tree/master/Slides/Lab_1">Lab 1</a></th> 
     <th>Introduction to Github and ASM</th>
     <th>14.07.2020</th>
   </tr>
   <tr>
+    <th>Week 2</th>
+    <th><a href="https://github.com/NeloyNSU/CSE331L_Section_7_Summer_2020_NSU/tree/master/Slides/Lab_2">Lab 2</a></th> 
+    <th>Introduce Basic MOV functions. </th>
+    <th>21.07.2020</th>
+  </tr>
+  <tr>
+    <th>Week 3</th>
+    <th><a href="https://github.com/NeloyNSU/CSE331L_Section_7_Summer_2020_NSU/tree/master/Slides/Lab_3">Lab 3</a></th> 
+    <th>Basic arithmetic, logical functions and interrupt</th>
+    <th>4.08.2020</th>
+  </tr>
+  <tr>
+    <th>Week 4</th>
+    <th><a href="">Lab 4</a></th> 
+    <th>Mid-Term</th>
+    <th>18.08.2020</th>
+  </tr>
 
 </table>
 </p>
@@ -99,28 +120,19 @@ This course provides an introduction to the fundamental concept of microprocesso
 </p>
 </br>
 
-## _Homework:_ (Submission <a href="https://github.com/NeloyNSU/CSE331L_Section_7_Summer_2020_NSU/tree/master/Homework%20Submission/Homework%201">Link</a>)
+## _Submission Links_:
 
-<p align="central">
-  <table style="border:1px solid black;margin-left:auto;margin-right:auto;">
-  <tr>
-    <th>Homework 1</th> 
-    <th>20.07.2020 (Before 11.59pm)</th>   
-  </tr> 
-</table>
-</p>
+* _Homework:_ (Submission <a href="https://github.com/NeloyNSU/CSE331L_Section_7_Summer_2020_NSU/tree/master/Homework%20Submission/Homework%201">Link</a>)
+
+* _Lab Assessment:_ (Submission <a href="https://github.com/NeloyNSU/CSE331L_Section_7_Summer_2020_NSU/tree/master/Lab%20Asssessment%20Submission/Lab%20Assessment%201">Link</a>)
 </br>
 
-## _Lab Assessment:_ (Submission <a href="https://github.com/NeloyNSU/CSE331L_Section_7_Summer_2020_NSU/tree/master/Lab%20Asssessment%20Submission/Lab%20Assessment%201">Link</a>)
+## _Lab Resource_:
 
-<p align="central">
-  <table style="border:1px solid black;margin-left:auto;margin-right:auto;">
-  <tr>
-    <th>Assessment 1</th> 
-    <th>14.07.2020 (Before 11.59am)</th>   
-  </tr> 
-</table>
-</p>
+* _Marks:_ (Updated <a href="https://github.com/aaneloy/CSE331L_Section_7_Summer_2020_NSU/blob/master/Marks/CSE331L_Section_7_Marks.pdf">Here</a>)
+* _Class Lecture_: https://github.com/aaneloy/CSE331L_Section_7_Summer_2020_NSU/tree/master/Slides
+* _Lab Code_: https://github.com/aaneloy/CSE331L_Section_7_Summer_2020_NSU/tree/master/Codes
+
 </br>
 
 ## _Project_ 
@@ -146,6 +158,6 @@ Will Update Later
 </br>
 
 ## License 📄
-_This work is dual-licensed under MIT and CC BY-NC-SA 4.0. You can choose between one of them if you use this work._
+This work is dual-licensed under MIT and CC BY-NC-SA 4.0. You can choose between one of them if you use this work.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
