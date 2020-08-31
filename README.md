@@ -95,19 +95,19 @@ This course provides an introduction to the fundamental concept of microprocesso
   <tr>
     <th>Week 6</th>
     <th><a href="">Lab 6</a></th> 
-    <th>Control Flow Instruction 2</th>
+    <th>Project Day-1</th>
     <th>1.09.2020</th>
   </tr>
   <tr>
     <th>Week 7</th>
     <th><a href="">Lab 7</a></th> 
-    <th>Project Day-1</th>
+    <th>Project Day-2</th>
     <th>08.09.2020</th>
   </tr>
   <tr>
     <th>Week 8</th>
     <th><a href="">Lab 8</a></th> 
-    <th>Project Day-2</th>
+    <th>Control Flow Instruction 2</th>
     <th>15.09.2020</th>
   </tr>
   <tr>
